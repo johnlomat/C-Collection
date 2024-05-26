@@ -1,0 +1,8 @@
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Grading System\Grading System\bin\Debug\Grading System.exe
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Grading System\Grading System\bin\Debug\Grading System.pdb
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Grading System\Grading System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Grading System\Grading System\obj\Debug\Grading_System.Form1.resources
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Grading System\Grading System\obj\Debug\Grading_System.Properties.Resources.resources
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Grading System\Grading System\obj\Debug\Grading System.csproj.GenerateResource.Cache
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Grading System\Grading System\obj\Debug\Grading System.exe
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Grading System\Grading System\obj\Debug\Grading System.pdb

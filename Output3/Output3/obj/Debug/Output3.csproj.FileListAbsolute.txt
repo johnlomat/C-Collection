@@ -1,0 +1,9 @@
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Output3\Output3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Output3\Output3\obj\Debug\Output3.Form1.resources
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Output3\Output3\obj\Debug\Output3.Properties.Resources.resources
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Output3\Output3\obj\Debug\Output3.csproj.GenerateResource.Cache
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Output3\Output3\obj\Debug\Output3.Form2.resources
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Output3\Output3\bin\Debug\Output3.exe
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Output3\Output3\bin\Debug\Output3.pdb
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Output3\Output3\obj\Debug\Output3.exe
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Output3\Output3\obj\Debug\Output3.pdb

@@ -1,0 +1,7 @@
+C:\Users\TAPIA\Desktop\my program\Input\Height , Weight , Hair Color\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\TAPIA\Desktop\my program\Input\Height , Weight , Hair Color\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\TAPIA\Desktop\my program\Input\Height , Weight , Hair Color\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TAPIA\Desktop\my program\Input\Height , Weight , Hair Color\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\TAPIA\Desktop\my program\Input\Height , Weight , Hair Color\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\TAPIA\Desktop\my program\Input\Height , Weight , Hair Color\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\TAPIA\Desktop\my program\Input\Height , Weight , Hair Color\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb

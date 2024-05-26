@@ -1,0 +1,8 @@
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Payroll\Payroll\bin\Debug\Payroll.exe
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Payroll\Payroll\bin\Debug\Payroll.pdb
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Payroll\Payroll\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Payroll\Payroll\obj\Debug\Payroll.Form1.resources
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Payroll\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Payroll\Payroll\obj\Debug\Payroll.csproj.GenerateResource.Cache
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Payroll\Payroll\obj\Debug\Payroll.exe
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Payroll\Payroll\obj\Debug\Payroll.pdb

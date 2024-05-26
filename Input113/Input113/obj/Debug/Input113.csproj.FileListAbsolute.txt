@@ -1,0 +1,8 @@
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Input113\Input113\bin\Debug\Input113.exe
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Input113\Input113\bin\Debug\Input113.pdb
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Input113\Input113\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Input113\Input113\obj\Debug\Input113.Form1.resources
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Input113\Input113\obj\Debug\Input113.Properties.Resources.resources
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Input113\Input113\obj\Debug\Input113.csproj.GenerateResource.Cache
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Input113\Input113\obj\Debug\Input113.exe
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Input113\Input113\obj\Debug\Input113.pdb

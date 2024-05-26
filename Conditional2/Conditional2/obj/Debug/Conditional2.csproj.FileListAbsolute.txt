@@ -1,0 +1,8 @@
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Conditional2\Conditional2\bin\Debug\Conditional2.exe
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Conditional2\Conditional2\bin\Debug\Conditional2.pdb
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Conditional2\Conditional2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Conditional2\Conditional2\obj\Debug\Conditional2.Form1.resources
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Conditional2\Conditional2\obj\Debug\Conditional2.Properties.Resources.resources
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Conditional2\Conditional2\obj\Debug\Conditional2.csproj.GenerateResource.Cache
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Conditional2\Conditional2\obj\Debug\Conditional2.exe
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Conditional2\Conditional2\obj\Debug\Conditional2.pdb

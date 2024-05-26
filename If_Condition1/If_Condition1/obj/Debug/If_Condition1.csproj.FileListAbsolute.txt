@@ -1,0 +1,8 @@
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\If_Condition1\If_Condition1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\If_Condition1\If_Condition1\obj\Debug\If_Condition1.Form1.resources
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\If_Condition1\If_Condition1\obj\Debug\If_Condition1.Properties.Resources.resources
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\If_Condition1\If_Condition1\obj\Debug\If_Condition1.csproj.GenerateResource.Cache
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\If_Condition1\If_Condition1\bin\Debug\If_Condition1.exe
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\If_Condition1\If_Condition1\bin\Debug\If_Condition1.pdb
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\If_Condition1\If_Condition1\obj\Debug\If_Condition1.exe
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\If_Condition1\If_Condition1\obj\Debug\If_Condition1.pdb

@@ -1,0 +1,10 @@
+C:\Users\TAPIA\Documents\Visual Studio 2008\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+C:\Users\TAPIA\Documents\Visual Studio 2008\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+C:\Users\TAPIA\Documents\Visual Studio 2008\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TAPIA\Documents\Visual Studio 2008\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\TAPIA\Documents\Visual Studio 2008\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+C:\Users\TAPIA\Documents\Visual Studio 2008\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\TAPIA\Documents\Visual Studio 2008\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+C:\Users\TAPIA\Documents\Visual Studio 2008\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.form2.resources
+C:\Users\TAPIA\Desktop\my program\Conditional\Even or Odd\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\TAPIA\Desktop\my program\Conditional\Even or Odd\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb

@@ -1,0 +1,8 @@
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Cashier\Cashier\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Cashier\Cashier\obj\Debug\Cashier.Form1.resources
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Cashier\Cashier\obj\Debug\Cashier.Properties.Resources.resources
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Cashier\Cashier\obj\Debug\Cashier.csproj.GenerateResource.Cache
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Cashier\Cashier\bin\Debug\Cashier.exe
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Cashier\Cashier\bin\Debug\Cashier.pdb
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Cashier\Cashier\obj\Debug\Cashier.exe
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Cashier\Cashier\obj\Debug\Cashier.pdb

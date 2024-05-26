@@ -1,0 +1,8 @@
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Tax\Tax\bin\Debug\Tax.exe
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Tax\Tax\bin\Debug\Tax.pdb
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Tax\Tax\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Tax\Tax\obj\Debug\Tax.Form1.resources
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Tax\Tax\obj\Debug\Tax.Properties.Resources.resources
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Tax\Tax\obj\Debug\Tax.csproj.GenerateResource.Cache
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Tax\Tax\obj\Debug\Tax.exe
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Tax\Tax\obj\Debug\Tax.pdb

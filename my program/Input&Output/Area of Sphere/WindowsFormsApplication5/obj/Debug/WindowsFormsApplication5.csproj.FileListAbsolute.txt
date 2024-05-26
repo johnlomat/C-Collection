@@ -1,0 +1,8 @@
+C:\Users\TAPIA\Documents\Visual Studio 2008\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\TAPIA\Documents\Visual Studio 2008\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\TAPIA\Documents\Visual Studio 2008\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TAPIA\Documents\Visual Studio 2008\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\TAPIA\Documents\Visual Studio 2008\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\TAPIA\Documents\Visual Studio 2008\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\TAPIA\Documents\Visual Studio 2008\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\TAPIA\Documents\Visual Studio 2008\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb

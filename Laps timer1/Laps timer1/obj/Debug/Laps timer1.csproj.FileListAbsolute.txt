@@ -1,0 +1,8 @@
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Laps timer1\Laps timer1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Laps timer1\Laps timer1\obj\Debug\Laps_timer1.Form1.resources
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Laps timer1\Laps timer1\obj\Debug\Laps_timer1.Properties.Resources.resources
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Laps timer1\Laps timer1\obj\Debug\Laps timer1.csproj.GenerateResource.Cache
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Laps timer1\Laps timer1\bin\Debug\Laps timer1.exe
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Laps timer1\Laps timer1\bin\Debug\Laps timer1.pdb
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Laps timer1\Laps timer1\obj\Debug\Laps timer1.exe
+C:\Users\computer2\Documents\Visual Studio 2008\Projects\Laps timer1\Laps timer1\obj\Debug\Laps timer1.pdb
